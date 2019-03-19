@@ -101,7 +101,7 @@ function nameCheck(name){
     return 'Hey Bryan!'
   }
   else {
-    return `Cool name ${name}`
+    return `Cool name, ${name}`
   }
 }
 
