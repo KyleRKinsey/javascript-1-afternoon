@@ -36,7 +36,7 @@ let devMountainGoal = null
 //plus the value of the name parameter.
 
 function greeting(name){
-  return `Hello, + ${name}`
+  return `Hello, ${name}`
 }
 
 
