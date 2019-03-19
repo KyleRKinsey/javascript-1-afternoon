@@ -46,7 +46,7 @@ function greeting(name){
 //Name it newGreeting.
 
 let newGreeting = function(name){
-  return `Hello, + ${name}`
+  return `Hello, ${name}`
 }
 
 //////////////////PROBLEM 8////////////////////
@@ -55,7 +55,7 @@ let newGreeting = function(name){
 //Name it finalGreeting.
 
 let finalGreeting= name => {
-  return `Hello, + ${name}`
+  return `Hello, ${name}`
 }
 
 //////////////////PROBLEM 9////////////////////
