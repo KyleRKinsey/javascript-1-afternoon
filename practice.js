@@ -35,7 +35,7 @@ let devMountainGoal = null
 //greeting should return the string "Hello, "
 //plus the value of the name parameter.
 
-function gretting(name){
+function greeting(name){
   return `Hello, + ${name}`
 }
 
